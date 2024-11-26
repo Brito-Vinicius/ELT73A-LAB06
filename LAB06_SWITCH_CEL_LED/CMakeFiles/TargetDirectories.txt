@@ -1,0 +1,5 @@
+C:/Users/Aluno/ELT73A-LAB06/LAB06_SWITCH_CEL_LED/CMakeFiles/LAB06_SWITCH_CEL_LED.dir
+C:/Users/Aluno/ELT73A-LAB06/LAB06_SWITCH_CEL_LED/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/ELT73A-LAB06/LAB06_SWITCH_CEL_LED/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/ELT73A-LAB06/LAB06_SWITCH_CEL_LED/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/ELT73A-LAB06/LAB06_SWITCH_CEL_LED/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
